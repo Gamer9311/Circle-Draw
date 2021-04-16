@@ -1,0 +1,12 @@
+#MP
+{
+    background-color: cornflowerblue;
+    background: url("https://images-na.ssl-images-amazon.com/images/I/815Rbg4cb1L._SL1500_.jpg");
+    text-align: center;
+}
+
+#canvas
+{
+    background-color: cyan;
+    border: 5px black solid;
+}
